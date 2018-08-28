@@ -2,7 +2,7 @@
 von Jarolin
 
 
-# Erste Informatikstunde: 21.08.2018<a name="einf"></a>
+### Erste Informatikstunde: 21.08.2018 
 
 In der ersten Doppelstunde haben wir als erstes einen Account bei GitHub erstellt und versucht uns in die Funktionen des Programmes hineinzufinden. 
 Wir beide hatten bis zu dem Zeitpunkt keinerlei Erfahrungen mit dem Programmieren und auf den ersten Blick wirkte es sehr komplex.
