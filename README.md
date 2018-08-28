@@ -27,3 +27,4 @@ In der dritten Stunde haben wir uns Gedanken über unser erstes Projekt gemacht.
 Diesen haben wir dann virtuell umgesetzt:
 
 https://snap.berkeley.edu/snapsource/snap.html
+h
