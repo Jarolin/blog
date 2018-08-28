@@ -10,6 +10,9 @@ Durch Ausprobieren haben wir mit dem Programm "The Beauty and Joy of Computing" 
 Es folgt ein Screenshot als Beispiel unserer Erfahrungen der ersten Stunde.
 Schon nach kurzer Zeit begann es Spaß zu bringen.
 
+https://raw.githubusercontent.com/Jarolin/blog/master/Stage(1).png
+
+
 ### Zweite Informatikstunde: 27.08.2018
 
 Heute haben wir weiterhin versucht, uns mit dem Programm "Snap!" vertraut zu machen. Ebenfalls haben wir uns über andere Programme wie Greenefoot informiert und danach den Versuch von letzter Stunde wiederaufgenommen, den Screenshot in den Blog einzufügen. Am Ende der Stunde haben wir das Bild in den Ordner oben eingefügt, direkt daraufhin hat es geklingelt und die Stunde war vorbei.
