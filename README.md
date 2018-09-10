@@ -12,7 +12,7 @@ Schon nach kurzer Zeit begann es Spaß zu bringen.
 
 https://raw.githubusercontent.com/Jarolin/blog/master/Stage(1).png
 
-(Bilder/Stage(1).png)
+(Bilder/stage(1).png)
 
 
 ### Zweite Informatikstunde: 27.08.2018
