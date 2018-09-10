@@ -23,6 +23,8 @@ Heute haben wir weiterhin versucht, uns mit dem Programm "Snap!" vertraut zu mac
 
 In der dritten Stunde haben wir uns Gedanken über unser erstes Projekt gemacht. Wir haben entschieden, es mit "Snap!" zu programmieren, da wir uns damit am besten auskennen. Unser zweiter Entschluss war es, ein Spiel zu erstellen, bei dem zwei Spieler gleichzeitig spielen können. Dazu unser erster, nicht digital erstellter Gedanke:
 
+ ![bsp file] (Bilder/file.jpg)
+
  
 
 Diesen haben wir dann virtuell umgesetzt:
