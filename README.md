@@ -10,7 +10,6 @@ Durch Ausprobieren haben wir mit dem Programm "The Beauty and Joy of Computing" 
 Es folgt ein Screenshot als Beispiel unserer Erfahrungen der ersten Stunde.
 Schon nach kurzer Zeit begann es Spaß zu bringen.
 
-https://raw.githubusercontent.com/Jarolin/blog/master/Stage(1).png
 
  ![bsp stage(1)](Bilder/Stage(1).png)
 
