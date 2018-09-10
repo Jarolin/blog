@@ -27,4 +27,8 @@ In der dritten Stunde haben wir uns Gedanken über unser erstes Projekt gemacht.
 Diesen haben wir dann virtuell umgesetzt:
 
 https://raw.githubusercontent.com/Jarolin/blog/master/screenshot.jpg
+
+### Vierte Informatikstunde: 10.09.2018
+
+Da in der vergangenen Woche der Informatikunterricht ausgefallen ist, haben wir uns zu Hause weiterhin mit dem Programm "Snap!" auseinandergesetzt. Wir haben uns dazu einige Tutorials auf YouTube angesehen und versucht, mehr Verständnis von den einzelnen Schritten des Programmierens zu bekommen. Außerdem haben wir uns Gedanken über unser eigenes Projekt gemacht. Da wir vorher noch nie etwas programmiert haben, haben wir beschlossen, als erstes Projekt ein Spiel zu entwickeln. Ein weiterer Grund für diese Wahl ist, dass wir in unserem Alltag eigene Erfahruzngen mit Computer- oder Handyspielen
  
