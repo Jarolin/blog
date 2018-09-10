@@ -16,12 +16,15 @@ Schon nach kurzer Zeit begann es Spaß zu bringen.
 
 ### Zweite Informatikstunde: 27.08.2018
 
-Heute haben wir weiterhin versucht, uns mit dem Programm "Snap!" vertraut zu machen. Ebenfalls haben wir uns über andere Programme wie Greenefoot informiert und danach den Versuch von letzter Stunde wiederaufgenommen, den Screenshot in den Blog einzufügen. Am Ende der Stunde haben wir das Bild in den Ordner oben eingefügt, direkt daraufhin hat es geklingelt und die Stunde war vorbei.
+Heute haben wir weiterhin versucht, uns mit dem Programm "Snap!" vertraut zu machen. 
+Ebenfalls haben wir uns über andere Programme wie Greenefoot informiert und danach den Versuch von letzter Stunde wiederaufgenommen, den Screenshot in den Blog einzufügen. 
+Am Ende der Stunde haben wir das Bild in den Ordner oben eingefügt, direkt daraufhin hat es geklingelt und die Stunde war vorbei.
 
 
 ### Dritte Informatikstunde: 28.08.2018
 
-In der dritten Stunde haben wir uns Gedanken über unser erstes Projekt gemacht. Wir haben entschieden, es mit "Snap!" zu programmieren, da wir uns damit am besten auskennen. Unser zweiter Entschluss war es, ein Spiel zu erstellen, bei dem zwei Spieler gleichzeitig spielen können. Dazu unser erster, nicht digital erstellter Gedanke:
+In der dritten Stunde haben wir uns Gedanken über unser erstes Projekt gemacht. Wir haben entschieden, es mit "Snap!" zu programmieren, da wir uns damit am besten auskennen. 
+Unser zweiter Entschluss war es, ein Spiel zu erstellen, bei dem zwei Spieler gleichzeitig spielen können. Dazu unser erster, nicht digital erstellter Gedanke:
 
  ![bsp file](Bilder/file.jpg)
 
@@ -33,7 +36,14 @@ Diesen haben wir dann virtuell umgesetzt:
 
 ### Vierte Informatikstunde: 10.09.2018
 
-Da in der vergangenen Woche der Informatikunterricht ausgefallen ist, haben wir uns zu Hause weiterhin mit dem Programm "Snap!" auseinandergesetzt. Wir haben uns dazu einige Tutorials auf YouTube angesehen und versucht, mehr Verständnis von den einzelnen Schritten des Programmierens zu bekommen. Außerdem haben wir uns Gedanken über unser eigenes Projekt gemacht. Da wir vorher noch nie etwas programmiert haben, habe.n wir beschlossen, als erstes Projekt ein Spiel zu entwickeln. Ein weiterer Grund für diese Wahl ist, dass wir in unserem Alltag eigene Erfahrungen mit Computer- oder Handyspielen machen und uns daher gut vorstellen können, wie das Endprodukt aussehen könnte.
+Da in der vergangenen Woche der Informatikunterricht ausgefallen ist, haben wir uns zu Hause weiterhin mit dem Programm "Snap!" auseinandergesetzt. 
+Wir haben uns dazu einige Tutorials auf YouTube angesehen und versucht, mehr Verständnis von den einzelnen Schritten des Programmierens zu bekommen. 
+Außerdem haben wir uns Gedanken über unser eigenes Projekt gemacht. 
+Da wir vorher noch nie etwas programmiert haben, haben wir beschlossen, als erstes Projekt ein Spiel zu entwickeln. 
+Ein weiterer Grund für diese Wahl ist, dass wir in unserem Alltag eigene Erfahrungen mit Computer- oder Handyspielen machen und uns daher gut vorstellen können, wie das Endprodukt aussehen könnte.
+
 Unsere Idee von letzter Stunde (das Spiel mit dem Labyrinth) haben wir leider verworfen. Der Grund dafür ist, dass wir die Wände des Labyrinths nicht so programmieren können, dass die Maus und die Katze, die die Charaktere wahrscheinlich dargestellt hätten, nicht durch die Wände laufen können.
-Heute haben wir es endlich geschafft, die Bilder einzufügen. :grinning:
-Außerdem haben wir durch einen fremden GitHub-User herausgefunden, wie man Emojis einfügen kann. :thumbsup: 
+
+In der heutigen Stunde haben wir ein Brainstorming über mögliche Alternativen zu unserer ursprünglichen Idee gemacht und diese anschließend diskutiert.
+In einer Überarbeitung des Blogs und der Neustrukturierung unserer GitHub Seite haben wir es endlich geschafft, die bereits früher gemachten Bilder einzufügen. :grinning:
+Außerdem haben wir durch einen fremden GitHub-User herausgefunden, wie man Emojis einbauen kann. :thumbsup: 
