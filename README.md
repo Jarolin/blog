@@ -70,4 +70,8 @@ Es folgt ein Screenshot von unserer ersten Skizze des Hasen und einer groben Ski
 
 ![bsp hase](Bilder/hase.png)
 
+
+Und hier ein Beispiel für unsere Möhre:
+
+
 ![bsp möhre](Bilder/möhre.png) 
