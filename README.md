@@ -52,13 +52,18 @@ Außerdem haben wir durch einen fremden GitHub-User herausgefunden, wie man Emoj
 
 Heute haben wir eine neue Idee für das Projekt besprochen und beschlossen, diese auch umzusetzen. 
 Es handelt sich um ein Spiel, bei dem der Protagonist ein rosa Hase ist. 
+
 Dieser startet am unteren rand des Bildschirmes und kann sich in alle vier Richtungen bewegen.
 Er versucht in verschiedenen Leveln automatisch von links nach rechts fliegenden roten Kugeln auszuweichen, und dabei auf alle in dem Level vorhandenen Möhrchen zu treffen.
+
 Geschieht dies, unterbricht das Spiel und es wird dem Spieler eine Multiple-Choice frage mit verschiedenen Antwortmöglichkeitren gestellt.
+
 Diese Frage hat wahrscheinlich etwas mit einem Thema aus der Biologie zu tun, deshalb auch die Wahl des Hasen. 
 Wir persönlich finden es sehr wichtig, dass Spiele auch einen Lerneffekt haben. 
 Unser Ziel ist es durch das Spiel motorische Fähigkeiten, zum Beispiel Reaktionsschnelligkeit, mit geistlicher Anstrengung zu verknüpfen.
+
 Des Weiteren soll unser Spiel keine Zeitverschwendung für die Spieler sein, sondern ihr Wissen bereichern und Interessen für neue Themengebiete erwecken, außerdem kann es Freude beim Lernen für die Schule (Oberstufe?) bereiten. 
 Wird eine Frage falsch beantwortet oder der Hase von den Kugeln getroffen beginnt das Spiel von Neuem.
 Konnten ohne getroffen zu werden alle Möhren erreicht und die Fragen alle richtig beantwortet werden ist das Level bestanden.
 
+![bsp hase](Bilder/hase.png)
