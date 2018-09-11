@@ -69,3 +69,5 @@ Konnten ohne getroffen zu werden alle Möhren erreicht und die Fragen alle richt
 Es folgt ein Screenshot von unserer ersten Skizze des Hasen und einer groben Skizze des gesamten Spiels, gezeichnet auf einem iPad.
 
 ![bsp hase](Bilder/hase.png)
+
+![bsp möhre](Bilder/möhre.png) 
