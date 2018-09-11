@@ -66,4 +66,6 @@ Des Weiteren soll unser Spiel keine Zeitverschwendung für die Spieler sein, son
 Wird eine Frage falsch beantwortet oder der Hase von den Kugeln getroffen beginnt das Spiel von Neuem.
 Konnten ohne getroffen zu werden alle Möhren erreicht und die Fragen alle richtig beantwortet werden ist das Level bestanden.
 
+Es folgt ein Screenshot von unserer ersten Skizze des Hasen und einer groben Skizze des gesamten Spiels, gezeichnet auf einem iPad.
+
 ![bsp hase](Bilder/hase.png)
