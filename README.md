@@ -75,3 +75,9 @@ Und hier ein Beispiel für unsere Möhre:
 
 
 ![bsp möhre](Bilder/möhre.png) 
+
+
+### Sechste Informatikstunde: 17.09.2018
+
+
+jujjj
