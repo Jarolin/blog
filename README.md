@@ -87,3 +87,9 @@ Heute haben wir begonnen, unser Spiel zu programmieren. Erst haben wir eine pass
 ### Siebte Informatikstunde: 18.09.2018
 
 Leider wurde unsere Arbeit von letzter Stunde nicht richtig gespeichert. Dies hatte zur Folge, dass wir den Hintergrund und die roten Kugeln neu erstellen programmieren mussten. 
+
+![bsp screenshot3](Bilder/screenshot3.jpg)
+
+![bsp screenshot4](Bilder/screenshot4.jpg)
+
+![bsp screenshot5](Bilder/screenshot5.jpg)
