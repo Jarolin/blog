@@ -80,4 +80,10 @@ Und hier ein Beispiel für unsere Möhre:
 ### Sechste Informatikstunde: 17.09.2018
 
 Heute haben wir begonnen, unser Spiel zu programmieren. Erst haben wir eine passenden, erdigen Hintergrund aus Google Bilder (https://www.obi.de/ratgeber/garten-und-freizeit/gartenpflanzen/garten-basics/torffreie-erden/images/rindenhumus.jpg) ausgesucht und dann zwei rote Kugeln erstellt und von 
+
 ![bsp screenshot17.9.](Bilder/screenshot17.9..jpg)
+
+
+### Siebte Informatikstunde: 18.09.2018
+
+Leider wurde unsere Arbeit von letzter Stunde nicht richtig gespeichert. Dies hatte zur Folge, dass wir den Hintergrund und die roten Kugeln neu erstellen programmieren mussten. 
