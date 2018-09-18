@@ -79,14 +79,18 @@ Und hier ein Beispiel für unsere Möhre:
 
 ### Sechste Informatikstunde: 17.09.2018
 
-Heute haben wir begonnen, unser Spiel zu programmieren. Erst haben wir eine passenden, erdigen Hintergrund aus Google Bilder (https://www.obi.de/ratgeber/garten-und-freizeit/gartenpflanzen/garten-basics/torffreie-erden/images/rindenhumus.jpg) ausgesucht und dann zwei rote Kugeln erstellt und von 
+Heute haben wir begonnen, unser Spiel zu programmieren. Erst haben wir eine passenden, erdigen Hintergrund aus Google Bilder (https://www.obi.de/ratgeber/garten-und-freizeit/gartenpflanzen/garten-basics/torffreie-erden/images/rindenhumus.jpg) ausgesucht und dann zwei rote Kugeln erstellt und so programmiert, dass sie sich selbstständig zeitlich und räumlich versetzt von links nach rechts hin und zurück bewegen. 
 
 ![bsp screenshot17.9.](Bilder/screenshot17.9..jpg)
 
 
 ### Siebte Informatikstunde: 18.09.2018
 
-Leider wurde unsere Arbeit von letzter Stunde nicht richtig gespeichert. Dies hatte zur Folge, dass wir den Hintergrund und die roten Kugeln neu erstellen programmieren mussten. Desweiteren haben wir unseren hasen skizziert und programmiert, sodass dieser sich in ein trauriges Gesicht (im Bild in schwarz, noch schwer zu erkennen) verwandelt, sobald die roten Kugeln berührt werden. Davon einige Eindrücke als Screenshots: 
+Leider wurde unsere Arbeit von letzter Stunde nicht richtig gespeichert. Dies hatte zur Folge, dass wir den Hintergrund und die roten Kugeln neu erstellen programmieren mussten.
+
+Desweiteren haben wir unseren hasen skizziert und programmiert, sodass dieser sich in ein trauriges Gesicht (im Bild in schwarz, noch schwer zu erkennen) verwandelt, sobald die roten Kugeln berührt werden. Danach haben wir einen neuen Hintergrund gesucht, da uns das Design vom anderen nicht so gut gefällt, da er zu dunkel ist und auch nicht zu den virtuellen Figuren passt.
+
+Außerdem haben wir dem "Hasen" (rosa) mehr Steuerungsmöglichkeiten gegeben. Davon einige Eindrücke als Screenshots: 
 
 ![bsp screenshot3](Bilder/screenshot3.jpg)
 
