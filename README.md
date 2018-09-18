@@ -86,7 +86,7 @@ Heute haben wir begonnen, unser Spiel zu programmieren. Erst haben wir eine pass
 
 ### Siebte Informatikstunde: 18.09.2018
 
-Leider wurde unsere Arbeit von letzter Stunde nicht richtig gespeichert. Dies hatte zur Folge, dass wir den Hintergrund und die roten Kugeln neu erstellen programmieren mussten. 
+Leider wurde unsere Arbeit von letzter Stunde nicht richtig gespeichert. Dies hatte zur Folge, dass wir den Hintergrund und die roten Kugeln neu erstellen programmieren mussten. Desweiteren haben wir unseren hasen skizziert und programmiert, sodass dieser sich in ein trauriges Gesicht (im Bild in schwarz, noch schwer zu erkennen) verwandelt, sobald die roten Kugeln berührt werden. Davon einige Eindrücke als Screenshots: 
 
 ![bsp screenshot3](Bilder/screenshot3.jpg)
 
