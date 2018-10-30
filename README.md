@@ -115,4 +115,5 @@ Wir waren begeistert von dem Design des Spieles und von der Tatsache, dass m,an 
 Heute haben wir entschieden, ein neues Programm für unser Spiel auszuprobieren, und zwar "App Inventor". Wir haben uns dazu entschieden, da.... Wir haben uns mithilfe von ande
 
 ### Elfte Informatikstunde: 30.10.2018
-hhh
+
+![bsp screen1shot1](Bilder/screen1shot1.jpg)
