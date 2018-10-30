@@ -117,3 +117,5 @@ Heute haben wir entschieden, ein neues Programm für unser Spiel auszuprobieren,
 ### Elfte Informatikstunde: 30.10.2018
 
 ![bsp screen1shot1](Bilder/screen1shot1.png)
+
+![bsp screen1shot2](Bilder/screen1shot1.png)
