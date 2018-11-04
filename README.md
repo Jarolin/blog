@@ -112,10 +112,18 @@ Wir waren begeistert von dem Design des Spieles und von der Tatsache, dass m,an 
 
 ### Zehnte Informatikstunde: 29.10.2018
 
-Heute haben wir entschieden, ein neues Programm für unser Spiel auszuprobieren, und zwar "App Inventor". Wir haben uns dazu entschieden, da.... Wir haben uns mithilfe von ande
+Heute haben wir entschieden, ein neues Programm für unser Spiel auszuprobieren, und zwar "App Inventor". Wir haben uns dazu entschieden, da uns klar geworden ist, dass unser Fortschritt nicht proportional zu unserer Anstrengung wächst. Außerdem bietet das Programm nicht alle Funktionen, die wir für unser Spiel brauchen. Und da der Abgabetermin immer näher rückt, haben wir diesen doch etwas riskanten Schritt gewagt.
+
+Das Spielprinzip wird gleich bleiben, nur ist jetzt unser Ziel, dass das Spiel auf dem Handy per Touch gespielt werden kann. Das heißt, der Hase wird mit einem Tippen um einen bestimmte Zahl den y-Wert ändern, sodass der Hase sich jedes Mal ein Stück nach oben bewegt. 
+
+Wir haben uns mithilfe von anderen Schülern über das Programm informiert und versucht, uns direkt zurecht zu finden.Mittlerweile haben wir Fortschritte gemacht, aber dazu werden wir die Screenshots nächstes Mal hinzufügen, da die Stunde jetzt zuende ist.
 
 ### Elfte Informatikstunde: 30.10.2018
 
+Heute haben wir, wie angekündigt, die Screenshots eingefügt. Zu sehen sind unser Hase, die Programmierungen in Form der Blocks und unser erster Ball, der noch hin und her fliegen soll: 
+
+
 ![bsp screen1shot1](Bilder/screen1shot1.png)
+
 
 ![bsp screen1shot2](Bilder/screen1shot1.png)
