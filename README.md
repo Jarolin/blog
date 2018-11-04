@@ -126,4 +126,4 @@ Heute haben wir, wie angekündigt, die Screenshots eingefügt. Zu sehen sind uns
 ![bsp screen1shot1](Bilder/screen1shot1.png)
 
 
-![bsp screen1shot2](Bilder/screen1shot1.png)
+![bsp screen1shot2](Bilder/screen1shot2.png)
