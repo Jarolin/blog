@@ -100,14 +100,14 @@ Außerdem haben wir dem "Hasen" (rosa) mehr Steuerungsmöglichkeiten gegeben. Da
 
 ### Achte Informatikstunde: 22.10.2018
 
-Heute hatten wir unsere
+Heute hatten wir unsere Programmierungen verfeinert und uns...??
 
 ### Neunte Informatikstunde: 23.10.2018
 
 In dieser Stunde hatten wir nochmal unseren Hasen verbessert, allerdings ist das Programm mehrmals abgestürzt, und unsere Änderungen wurden leider nicht gespeichert. 
 Daraufhin haben wir den einmzig weiteren freien Computer benutzen wollen, jedoch hatte dieser ebenfalls einen technischen Defekt und es war nicht möglich, dass wir uns anmelden.
 
-Zufällig befand sich dieser Computer neben JUlian und Benedict, welche uns ihr Projekt zeigten und Probe spielen ließen. 
+Zufällig befand sich dieser Computer neben Julian und Benedict, welche uns ihr Projekt zeigten und Probe spielen ließen. 
 Wir waren begeistert von dem Design des Spieles und von der Tatsache, dass m,an es direkt af dem Smartphone probieren konnte. Sie erzählten uns, dass sie 
 
 ### Zehnte Informatikstunde: 29.10.2018
