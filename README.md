@@ -130,6 +130,15 @@ Heute haben wir, wie angekündigt, die Screenshots eingefügt. Zu sehen sind uns
 
 ### Zwölfte Informatikstunde 06.11.2018
 
-Zu hauase haben wir ...
+In der zwischenzeit haben wir uns zu Hause durch das Anseheneiniger Tutorials näher mit dem Programm App Inventor beschäftigt. Unser besonderes Anliegen war herauszufinden, wie man eine Art Quizspiel auf einem neuen Screen einbauen kann. Dies haben wir nun verstanden und wollen es baldmöglichst umsetzen.
+
+Außerdem haben wir uns zu hzause bereits Gedanken über mögliche Quizfragen und Antworten gemacht.
+Wie bereits an früherer Stelle erwähnt, wollen wirn in dem Quiz Fragen zum Them,a Biologie stellen, die App soll Spaß und lernen miteinander verbinden. 
+Wir denken, dass so eine App vielen Schülern gefallen würde, da wir selber wissen, dass die Motivation zum Lernen oft nicht da ist.
+
+In der heutigen Informatikstunde haben wir die Bälle programmiert und das layout mi5t den richtigen Designblöcken für eine erste Quizfrage erstellt.
+
+
+
 
 
