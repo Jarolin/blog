@@ -130,15 +130,29 @@ Heute haben wir, wie angekündigt, die Screenshots eingefügt. Zu sehen sind uns
 
 ### Zwölfte Informatikstunde 06.11.2018
 
-In der zwischenzeit haben wir uns zu Hause durch das Anseheneiniger Tutorials näher mit dem Programm App Inventor beschäftigt. Unser besonderes Anliegen war herauszufinden, wie man eine Art Quizspiel auf einem neuen Screen einbauen kann. Dies haben wir nun verstanden und wollen es baldmöglichst umsetzen.
+In der Zwischenzeit haben wir uns zu Hause durch das Anseheneiniger Tutorials näher mit dem Programm App Inventor beschäftigt. Unser besonderes Anliegen war herauszufinden, wie man eine Art Quizspiel auf einem neuen Screen einbauen kann. Dies haben wir nun verstanden und wollen es baldmöglichst umsetzen.
 
-Außerdem haben wir uns zu hzause bereits Gedanken über mögliche Quizfragen und Antworten gemacht.
+Außerdem haben wir uns zu Hause bereits Gedanken über mögliche Quizfragen und Antworten gemacht.
 Wie bereits an früherer Stelle erwähnt, wollen wirn in dem Quiz Fragen zum Them,a Biologie stellen, die App soll Spaß und lernen miteinander verbinden. 
 Wir denken, dass so eine App vielen Schülern gefallen würde, da wir selber wissen, dass die Motivation zum Lernen oft nicht da ist.
 
-In der heutigen Informatikstunde haben wir die Bälle programmiert und das layout mi5t den richtigen Designblöcken für eine erste Quizfrage erstellt.
+In der heutigen Informatikstunde war Janina leider krank und Carolin somit alleine anwesend und hat die Bälle programmiert.
+Außerdem hat sie das Layout mit den richtigen Designblöcken für eine erste Quizfrage erstellt und dazu anschlöießend die nötigen Buttons programmiert. Somit ist es bereits zu diesem Zeitpunkt möglich eine der vier Antwortmöglichkeiten auszuwählen, man bekommt angezeigt ob es richtig oder falsch ist und bei Richtigkeit wird zu einem neuen Screen übergeleitet, auf dem man das Spiel neu stzarten kann. 
 
+Des Weitern wurde ein neuer Screnn designt mit einem Möhre fressenden Hasen, der auftauchen soll, wennn der Hase im Spiel die Möhre berührt. Auf diesem stehen Glückwünsche und es wurde der button programmiert, bei dessem Betätigung man zu der Fragwe gelangt.
 
+### Dreizehnte Informatikstunde 12.11.2018
+
+In der heutigen Informatikstunde haben wir die Programmierung von letzer Woche optimiert. 
+Außerdem haben wir eine Möhre als Zielpunkt korrekt ins Design integriert, bei Berühren von ihr erfolgt nun eine korrekte Übetrleitung zu dem "Congratulations-Screen". 
+
+Nun müsste eimal das komplette Durchspielen des Spiels möglich sein, was wir aufgrund des Stundenendes allerdings nicht mehr ausprobieren konnten.
+
+### Vierzehnte Informatikstunde 13.11.2018
+
+Da Janina heute bei dem Woodbrich Ausland teilnimmt und sich somit in England befindet, hat Carolin an der Gestaltung der GitHub Seite weitergearbeitet. Außerdem hat sie mit der Projektsweite begonnen.
+
+Des Weiteren konnte das bisher programmierte Spiel auif dem Smartphone ausprobiert werden.
 
 
 
