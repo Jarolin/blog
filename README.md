@@ -144,16 +144,26 @@ Des Weitern wurde ein neuer Screnn designt mit einem Möhre fressenden Hasen, de
 ### Dreizehnte Informatikstunde 12.11.2018
 
 In der heutigen Informatikstunde haben wir die Programmierung von letzer Woche optimiert. 
-Außerdem haben wir eine Möhre als Zielpunkt korrekt ins Design integriert, bei Berühren von ihr erfolgt nun eine korrekte Übetrleitung zu dem "Congratulations-Screen". 
+Außerdem haben wir eine Möhre als Zielpunkt korrekt ins Design integriert, bei Berühren von ihr erfolgt nun eine korrekte Überleitung zu dem "Congratulations-Screen". 
 
 Nun müsste eimal das komplette Durchspielen des Spiels möglich sein, was wir aufgrund des Stundenendes allerdings nicht mehr ausprobieren konnten.
 
 ### Vierzehnte Informatikstunde 13.11.2018
 
-Da Janina heute bei dem Woodbrich Ausland teilnimmt und sich somit in England befindet, hat Carolin an der Gestaltung der GitHub Seite weitergearbeitet. Außerdem hat sie mit der Projektsweite begonnen.
+Da Janina heute bei dem Woodbridge-Austausch teilnimmt und sich somit in England befindet, hat Carolin an der Gestaltung der GitHub Seite weitergearbeitet. Außerdem hat sie mit der Projektseite begonnen.
 
-Des Weiteren konnte das bisher programmierte Spiel auif dem Smartphone ausprobiert werden.
+Desweiteren konnte das bisher programmierte Spiel auf dem Smartphone ausprobiert werden.
 
+### Fünfzehnte Informatikstunde 20.11.2018
+
+Gestern ist leider die Informatikstunde ausgefallen und heute hatten wir aufgrund von Lehrerkonferenzen nur eine Stunde Zeit. Trotzdem haben wir heute durch weitere Arbeit von Zuhause aus viel geschafft.
+
+Wir haben uns das Konzept des Spiels jetzt detaillierter ausgedacht: Wir haben uns vier verschiedene Fragen aus dem Fachbereich Biologie ausgedacht, Screens hinzugefügt und unwichtige Elemente gelöscht. Zum Zweiteren gehören z. B. die Screens, die die Levels nachher darstellen sollen, also wo der Hase die Möhre erreichen soll. 
+
+Hier einige Eindrücke zum jetzigen Stand:
+
+
+Heute haben wir endgültig festgestellt, dass der Wechsel zu "MIT App Inventor" die richtige Entscheidung war, auch wenn wir kleine Startprobleme mit dem Programm hatten. 
 
 
 
