@@ -162,6 +162,13 @@ Wir haben uns das Konzept des Spiels jetzt detaillierter ausgedacht: Wir haben u
 
 Hier einige Eindrücke zum jetzigen Stand:
 
+![bsp Unbenannt](Bilder/Unbenannt.png)
+
+
+![bsp bildhase](Bilder/bildhase.png)
+
+
+
 
 Heute haben wir endgültig festgestellt, dass der Wechsel zu "MIT App Inventor" die richtige Entscheidung war, auch wenn wir kleine Startprobleme mit dem Programm hatten. 
 
