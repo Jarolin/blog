@@ -169,11 +169,11 @@ Hier einige Eindrücke zum jetzigen Stand:
 
 
 
-Heute haben wir festgestellt, dass der Wechsel zu "MIT App Inventor" die richtige Entscheidung war, auch wenn wir kleine Startprobleme mit dem Programm hatten. Denn die Umsetzung und die Grafiken sind sehr viel anschaulicher und wir haben mehr Möglichkeiten.
+Heute haben wir festgestellt, dass der Wechsel zu "MIT App Inventor" die richtige Entscheidung war, auch wenn wir kleine Startprobleme mit dem Programm hatten. Denn die Umsetzung und die Grafiken sind sehr viel anschaulicher und wir haben mehr Möglichkeiten. Allerdings ist die Screenanzahl begrenzt, weshalb wir einige nicht so wichtige Komponenten löschen mussten, wie zum Beispiel den Screen oben (s. Bild oben).
 
 
 
-Am Wochenende vor der Projekt-Abgabe haben wir noch einmal viel an dem Projekt gearbeitet. Doch da wir das Spiel nur mit einem Smartphone ausprobieren können, auf dem Android läuft, hatten wir erst am Abend vor der Abgabe die Chance, es auszuprobieren. Und obwohl wir uns so sicher waren, dass alles logisch programmiert war, funktionierte nur ein Bruchteil des Spiels so, wie es sollte. Dementsprechend hatten wir auch Probleme, den Projekt-Blog richtig zu schreiben, da dort viele Sachen nicht mehr richtig sind. Wir wissen nicht, was so sehr schief gehen konnte, da wir uns sehr viel Mühe gegeben hatten. Den ganzen Abend über haben wir also versucht, Ordnung in das Projekt zu bekommen.
+Am Wochenende vor der Projekt-Abgabe haben wir noch einmal viel an dem Projekt gearbeitet. Doch da wir das Spiel nur mit einem Smartphone ausprobieren können, auf dem Android läuft, hatten wir erst am Abend vor der Abgabe die Chance, es auszuprobieren. Und obwohl wir uns so sicher waren, dass alles logisch programmiert war, funktionierte nur ein Bruchteil des Spiels so, wie es sollte. Dementsprechend hatten wir auch Probleme, den Projekt-Blog richtig zu schreiben, da dort viele Sachen nicht mehr richtig sind. Wir wissen nicht, was so sehr schief gehen konnte, da wir uns sehr viel Mühe gegeben hatten. Den ganzen Abend über haben wir also versucht, Ordnung in das Projekt zu bekommen. Außerdem ist ein neues Problem aufgetreten, nämlich das, dass die App bei bestimmten Screens abstürzt. Leider können wir nicht herausfinden, woran das liegt. 
 
 
 
