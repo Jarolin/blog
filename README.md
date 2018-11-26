@@ -173,7 +173,39 @@ Heute haben wir festgestellt, dass der Wechsel zu "MIT App Inventor" die richtig
 
 
 
-Am Wochenende vor der Projekt-Abgabe haben wir noch einmal viel an dem Projekt gearbeitet. Doch da wir das Spiel nur mit einem Smartphone ausprobieren können, auf dem Android läuft, hatten wir erst am Abend vor der Abgabe die Chance, es auszuprobieren. Und obwohl wir uns so sicher waren, dass alles logisch programmiert war, funktionierte nur ein Bruchteil des Spiels so, wie es sollte. Dementsprechend hatten wir auch Probleme, den Projekt-Blog richtig zu schreiben, da dort viele Sachen nicht mehr richtig sind. Wir wissen nicht, was so sehr schief gehen konnte, da wir uns sehr viel Mühe gegeben hatten. Den ganzen Abend über haben wir also versucht, Ordnung in das Projekt zu bekommen. Außerdem ist ein neues Problem aufgetreten, nämlich das, dass die App bei bestimmten Screens abstürzt. Leider können wir nicht herausfinden, woran das liegt. 
+Am Wochenende vor der Projekt-Abgabe haben wir noch einmal viel an dem Projekt gearbeitet. Da wir das Spiel nur mit einem Smartphone ausprobieren können, auf dem Android läuft, hatten wir nur selten die Chance das Programmierte direkt auszuprobieren. 
+Als wir dachten komplett fertig zu sein und alles korrekt programmiert zu haben, mussten wir beim Ausprobieren leider feststellen, dass noch ein paar kleine Fehler in der Programmierung enthalten waren. Diese haben das Speil aber stark beeinträchtigt, weswegen wir zunächst etwas geschockt waren.
+
+Zum einen hatte die Möhre eine falsche Größe, der Hase ebenfalls. Mit verschiedenem Ausprobieren und dem Ändern der Pixelgröße der beiden ImageSprites konnten wir das Problem schließlich beheben. 
+Im ersten Level flogen nur zwei der drei Kugeln korrekt, die dritte Kugel flog kreuz und quer. Diese mussten wir an dei Einstellungen der anderen beiden Kugeln anpassen. 
+
+Ein Hauptproblem war, dass der Hase an der falschen Stelle startete, sodass er direkt die Möhre berührte. Leider konnte man in MIT App Inventor nicht das voreingestellte Koordinatensystem sehen. Somit mussten wir die Startkoordinaten des Hasen ständig verändern. Durch langsame Annährung konnten wir schließlich unseren Wunschstartwert für den Hasen einstellen.
+Damit funktionierte das Speil soweit.
+
+Beim Ausprobieren der verschiedenen Funktionen fiel uns anschließend auf, dass ab und zu, besonders bei einzelnen Antwortmöglichkeiten der Fragen, die Weiterleitung zu dem nächsten Screen falsch programmiert war.
+Da wir manche Screens während des Arbeitsprozesses gelöscht und neu erstellt haben stand teilweise noch der alte Name des Screens in den Befehlen, welcher logischwerweise vom Programm nicht mehr gefunden werden konnte. Nach systematischem Durchgehen der einzelnen Screens konnten wir dieses Problem schließlich beheben.
+
+Doch es trat ein weiteres Problem auf, bei dem Screen "VersuchsNochmal", auf den man gelangt, wenn der ImageSprite Hase einen Ball berührt oder der Spieler die Frage falsch beantwortet. 
+Drückte man den Butten "Nochmal" startete das Speil erneut, doch stürzte kurze Zeit später wieder zu dem "VersuchsNochmal" Screen ab. Wir haben sehr lange gegrübelt woran deis liegen könnte. Schließlich kamen wir auf eine Idee. 
+Unsere Befehle hießen überall "open another Screen". Jedoch hatten wir nicht bedacht, dass dadurch die anderen Screens im Hintergrund noch weiterliefen. Somit berührten die Bälle weiterhin den ImageSprite "Hase" und jedes Mal wenn das geschah, erschien wie programmiert der "VersuchsNochmal" Screen. 
+Durch Einfügen des Befehls "close Screen" bei allen Blogs konnten wir dieses Problem beheben.
+
+Auch wenn das nach vielen Fehlern klingt waren es letztendlich alles nur kleine Änderungen. 
+
+Endlich funktionierte das gesamte Spiel genau so, wie wir es uns vorgestellt hatten.
+Obwohl das gesamte Projekt sehr viel Arbeit und manchmal auch ziemlich frustriend war (wenn bestimmte Dinge einfach nicht so funktioniert haben, wie man es wollte, oder man den Fehler nicht gefunden hat) überkam uns ein gewisser Stolz, als wir unser eigenes Spiel auf dem Smartphone komplett spielen konnten. 
+Da wussten wir, dass sich die Mühe auf jeden Fall gelohnt hat.
+
+Zusammenfassend kann man sagen, dass uns das Informatik Projekt super viel Spaß gebracht hat.
+Jetzt, wo man sich mit dem Programmieren etwas auskennt, hat man große Lust an einem neuen Projekt zu arbeiten.
+Ursprünglich waren wir etwas skeptisch gegenüber dem komplett unbekannten Programmieren, wir hätten wir niemals gedacht, dass wir so viel Freude an der Sache entwickeln würden.
+
+Fürs nächste Mal nehmen wir uns vor, uns direkt auf ein Programm zu spezialisieren. Der relativ späte Wechsel von "Snap" zu "MIT App Inventor" war dennoch kein großes Problem, da die beiden Programme sehr ähnlich aufgebaut sind und wir einzelne Dinge und Kenntnisse einfach übernehmen konnten. 
+Außerdem haben wir gelernt, dass es schwieriger als erwartet ist, wenn man die Dinge selber nicht ständig ausprobieren können, da keiner von uns ein Android- Handy besitzt.
+Aus diesem Grund werden wir nächstes Mal wahrscheinlich auf ein anderes Programm wechseln, auch wenn mit MIT App Inventor am Ende sehr gut klargekommen sind. 
+
+Wir hatten viel Spaß und freuen uns jetzt schon auf das nächste Projekt!! :)
+
 
 
 
