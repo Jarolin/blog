@@ -1,10 +1,10 @@
 # Blog
-von Jarolin
+von Carolin Oelschlägel und Janina Gräfnitz
 
 
 ### Erste Informatikstunde: 21.08.2018 
 
-In der ersten Doppelstunde haben wir als erstes einen Account bei GitHub erstellt und versucht uns in die Funktionen des Programmes hineinzufinden. 
+In der ersten Doppelstunde haben wir als erstes einen Account bei GitHub erstellt und versucht, uns in die Funktionen des Programmes hineinzufinden. 
 Wir beide hatten bis zu dem Zeitpunkt keinerlei Erfahrungen mit dem Programmieren und auf den ersten Blick wirkte es sehr komplex.
 Durch Ausprobieren haben wir mit dem Programm "The Beauty and Joy of Computing" mit Snap! erste kleine Aktionen durchgeführt und verschiedene Funktionen entdeckt.
 Es folgt ein Screenshot als Beispiel unserer Erfahrungen der ersten Stunde.
@@ -16,15 +16,20 @@ Schon nach kurzer Zeit begann es Spaß zu bringen.
 
 ### Zweite Informatikstunde: 27.08.2018
 
-Heute haben wir weiterhin versucht, uns mit dem Programm "Snap!" vertraut zu machen. 
-Ebenfalls haben wir uns über andere Programme wie Greenefoot informiert und danach den Versuch von letzter Stunde wiederaufgenommen, den Screenshot in den Blog einzufügen. 
-Am Ende der Stunde haben wir das Bild in den Ordner oben eingefügt, direkt daraufhin hat es geklingelt und die Stunde war vorbei.
+Wir haben zu Hause bereits den ersten Blogeintrag verfasst. 
+In der heutigen Informatikstunde haben wir weiterhin versucht, uns mit dem Programm "Snap!" vertraut zu machen. 
+Wir haben kleine Figuren gezeichent (Sprites erstellt) und uns die einzelnen Blöcke und ihre Befehle genauer angeschaut. 
+Bei YouTube haben wir englische Tutorials gefunden, welche geanuer erklärten, wie das Pogramm funktioniert. 
+
+Ebenfalls haben wir uns über andere Programme wie Greenfoot informiert und es hinbekommen, Screenshots in GitHub einzufügen.
+Jedoch konnten wir sie leider noch nicht im Blog erscheinen lassen.
+Viel zu schnell hat es bereits geklingelt und die Stunde war vorbei.
 
 
 ### Dritte Informatikstunde: 28.08.2018
 
 In der dritten Stunde haben wir uns Gedanken über unser erstes Projekt gemacht. Wir haben entschieden, es mit "Snap!" zu programmieren, da wir uns damit am besten auskennen. 
-Unser zweiter Entschluss war es, ein Spiel zu erstellen, bei dem zwei Spieler gleichzeitig spielen können. Dazu unser erster, nicht digital erstellter Gedanke:
+Unser zweiter Entschluss war es, bestenfalls ein Spiel zu erstellen, bei dem zwei Spieler gleichzeitig spielen können. Dazu unser erster, nicht digital erstellter Gedanke:
 
  ![bsp file](Bilder/file.jpg)
 
@@ -34,19 +39,22 @@ Diesen haben wir dann virtuell umgesetzt:
 
 ![bsp screenshot](Bilder/screenshot.jpg)
 
+
 ### Vierte Informatikstunde: 10.09.2018
 
 Da in der vergangenen Woche der Informatikunterricht ausgefallen ist, haben wir uns zu Hause weiterhin mit dem Programm "Snap!" auseinandergesetzt. 
 Wir haben uns dazu einige Tutorials auf YouTube angesehen und versucht, mehr Verständnis von den einzelnen Schritten des Programmierens zu bekommen. 
 Außerdem haben wir uns Gedanken über unser eigenes Projekt gemacht. 
-Da wir vorher noch nie etwas programmiert haben, haben wir beschlossen, als erstes Projekt ein Spiel zu entwickeln. 
+Da wir vorher noch nie etwas programmiert haben, haben wir beschlossen, als erstes Projekt auf jeden Fall ein Spiel zu entwickeln. 
 Ein weiterer Grund für diese Wahl ist, dass wir in unserem Alltag eigene Erfahrungen mit Computer- oder Handyspielen machen und uns daher gut vorstellen können, wie das Endprodukt aussehen könnte.
 
-Unsere Idee von letzter Stunde (das Spiel mit dem Labyrinth) haben wir leider verworfen. Der Grund dafür ist, dass wir die Wände des Labyrinths nicht so programmieren können, dass die Maus und die Katze, die die Charaktere wahrscheinlich dargestellt hätten, nicht durch die Wände laufen können.
+Unsere Idee von letzter Stunde (das Spiel mit dem Labyrinth) haben wir leider verworfen. 
+Der Grund dafür ist, dass wir die Wände des Labyrinths nicht so programmieren können, dass die Maus und die Katze, die die Charaktere wahrscheinlich dargestellt hätten, stets an den Wänden vorbeilaufen.
 
 In der heutigen Stunde haben wir ein Brainstorming über mögliche Alternativen zu unserer ursprünglichen Idee gemacht und diese anschließend diskutiert.
-In einer Überarbeitung des Blogs und der Neustrukturierung unserer GitHub Seite haben wir es endlich geschafft, die bereits früher gemachten Bilder einzufügen. :grinning:
+In einer Überarbeitung des Blogs und der Neustrukturierung unserer GitHub Seite haben wir es endlich geschafft, die bereits früher gemachten Screenshots und Bilder einzufügen. :grinning:
 Außerdem haben wir durch einen fremden GitHub-User herausgefunden, wie man Emojis einbauen kann. :thumbsup: 
+
 
 ### Fünfte Informatikstunde: 11.09.2018
 
@@ -88,7 +96,9 @@ Heute haben wir begonnen, unser Spiel zu programmieren. Erst haben wir eine pass
 
 Leider wurde unsere Arbeit von letzter Stunde nicht richtig gespeichert. Dies hatte zur Folge, dass wir den Hintergrund und die roten Kugeln neu erstellen programmieren mussten.
 
-Desweiteren haben wir unseren hasen skizziert und programmiert, sodass dieser sich in ein trauriges Gesicht (im Bild in schwarz, noch schwer zu erkennen) verwandelt, sobald die roten Kugeln berührt werden. Danach haben wir einen neuen Hintergrund gesucht, da uns das Design vom anderen nicht so gut gefällt, da er zu dunkel ist und auch nicht zu den virtuellen Figuren passt.
+Des Weiteren haben wir unseren Hasen skizziert und programmiert, sodass dieser sich in ein trauriges Gesicht (im Bild in schwarz, noch schwer zu erkennen) verwandelt, sobald die roten Kugeln berührt werden. 
+Danach haben wir einen neuen Hintergrund gesucht, da uns das Design von dem anderen nicht so gut gefällt.
+Dieser ist zu dunkel und passt auch farblcih nicht gut zu den virtuellen Figuren.
 
 Außerdem haben wir dem "Hasen" (rosa) mehr Steuerungsmöglichkeiten gegeben. Davon einige Eindrücke als Screenshots: 
 
@@ -98,25 +108,44 @@ Außerdem haben wir dem "Hasen" (rosa) mehr Steuerungsmöglichkeiten gegeben. Da
 
 ![bsp screenshot5](Bilder/screenshot5.jpg)
 
+
 ### Achte Informatikstunde: 22.10.2018
 
-Heute hatten wir unsere Programmierungen verfeinert und uns...??
+Heute hatten wir unsere Programmierungen verfeinert. Außerdem haben wir uns erste Gedanken darüber gemacht, wie das mit dem Biologie-Quiz Teil programmiert werden könnte.
+Wir haben auf meherern Tutorial Seiten im Internet nach Lösungen gesucht, jedoch wurden wir dabei nicht wirklich fündig.
+Uns wurde klar, dass unser Wusch mit dem gewählten Programm "Snap!" womöglich etwas schwierig umzusetzen wird.
+
+Leider kam uns keine Alternatividee.
+Wir beschlossen, dass wir die Quizfragen eventuell weglassen müssen.
+Dies fanden wir allerdigs sehr schade, da sie unser Spiel unserer Meinung nach besonders gemacht hätten. 
+Denn ein Spiel, welches zwei Teile (den Hasenteil und den Quizteil) miteinander vereint, haben wir beide bisher noch nirgendwo gespielt. 
+
 
 ### Neunte Informatikstunde: 23.10.2018
 
-In dieser Stunde hatten wir nochmal unseren Hasen verbessert, allerdings ist das Programm mehrmals abgestürzt, und unsere Änderungen wurden leider nicht gespeichert. 
-Daraufhin haben wir den einmzig weiteren freien Computer benutzen wollen, jedoch hatte dieser ebenfalls einen technischen Defekt und es war nicht möglich, dass wir uns anmelden.
+In dieser Stunde war Carolin alleine, da Janina aufgrund von Krankheit ausgefallen ist.  
+Sie hat nochmal unseren Hasen verbessert, allerdings ist das Programm mehrmals abgestürzt, die Änderungen wurden leider nicht gespeichert. 
+Dies war ziemlich frustrierend. 
+Daraufhin hat sie den einzig weiteren freien Computer benutzen wollen, jedoch hatte dieser ebenfalls einen technischen Defekt und es war nicht möglich sich anzumelden.
 
-Zufällig befand sich dieser Computer neben Julian und Benedict, welche uns ihr Projekt zeigten und Probe spielen ließen. 
-Wir waren begeistert von dem Design des Spieles und von der Tatsache, dass m,an es direkt af dem Smartphone probieren konnte. Sie erzählten uns, dass sie 
+Zufällig befand sich dieser Computer neben Julian und Benedict, welche Carolin ihr Projekt zeigten und sie Probe spielen ließen. 
+Sie war begeistert von dem Design des Spieles und von der Tatsache, dass man es direkt af dem Smartphone probieren konnte. Sie erzählten, dass sie ihr Spiel mit dem Programm "MIT App Inventor" programmierten. 
+
+Ebenfalls berichteten sie von der Funktion, dass man zwischen verschiedenen Screens wechseln kann. So fällt es leicht einen seperaten Quizteil zu erstellen.
+
+Carolin war begeistert von dem Programm und erzählte Janina direkt davon.
+
 
 ### Zehnte Informatikstunde: 29.10.2018
 
-Heute haben wir entschieden, ein neues Programm für unser Spiel auszuprobieren, und zwar "App Inventor". Wir haben uns dazu entschieden, da uns klar geworden ist, dass unser Fortschritt nicht proportional zu unserer Anstrengung wächst. Außerdem bietet das Programm nicht alle Funktionen, die wir für unser Spiel brauchen. Und da der Abgabetermin immer näher rückt, haben wir diesen doch etwas riskanten Schritt gewagt.
+Heute haben wir entschieden, ein neues Programm für unser Spiel auszuprobieren, und zwar "MIT App Inventor". 
+Wir haben uns dazu entschieden, da uns klar geworden ist, dass unser Fortschritt nicht proportional zu unserer Anstrengung wächst. Außerdem bietet das alte Programm nicht alle Funktionen, die wir für unser Spiel brauchen. 
+Und da der Abgabetermin immer näher rückt, haben wir diesen doch etwas riskanten Schritt gewagt.
 
 Das Spielprinzip wird gleich bleiben, nur ist jetzt unser Ziel, dass das Spiel auf dem Handy per Touch gespielt werden kann. Das heißt, der Hase wird mit einem Tippen um einen bestimmte Zahl den y-Wert ändern, sodass der Hase sich jedes Mal ein Stück nach oben bewegt. 
 
-Wir haben uns mithilfe von anderen Schülern über das Programm informiert und versucht, uns direkt zurecht zu finden.Mittlerweile haben wir Fortschritte gemacht, aber dazu werden wir die Screenshots nächstes Mal hinzufügen, da die Stunde jetzt zuende ist.
+Wir haben uns mit Hilfe von anderen Schülern über das Programm informiert und versucht, uns direkt zurecht zu finden. Mittlerweile haben wir Fortschritte gemacht, aber dazu werden wir die Screenshots nächstes Mal hinzufügen, da die Stunde jetzt zu Ende ist.
+
 
 ### Elfte Informatikstunde: 30.10.2018
 
@@ -128,9 +157,13 @@ Heute haben wir, wie angekündigt, die Screenshots eingefügt. Zu sehen sind uns
 
 ![bsp screen1shot2](Bilder/screen1shot2.png)
 
+Wir haben bemerkt, dass die Befehle in dem neuen Programm sich glücklicherweise nicht sehr stark von denen in "Snap!" unterscheiden, so war das eingewöhnen relativ einfach.
+Wir haben begonnen unsere Spielidee gezielt umzusetzen.
+
+
 ### Zwölfte Informatikstunde 06.11.2018
 
-In der Zwischenzeit haben wir uns zu Hause durch das Anseheneiniger Tutorials näher mit dem Programm App Inventor beschäftigt. Unser besonderes Anliegen war herauszufinden, wie man eine Art Quizspiel auf einem neuen Screen einbauen kann. Dies haben wir nun verstanden und wollen es baldmöglichst umsetzen.
+In der Zwischenzeit haben wir uns zu Hause durch das Ansehen einiger Tutorials näher mit dem Programm App Inventor beschäftigt. Unser besonderes Anliegen war herauszufinden, wie man eine Art Quizspiel auf einem neuen Screen einbauen kann. Dies haben wir nun verstanden und wollen es baldmöglichst umsetzen.
 
 Außerdem haben wir uns zu Hause bereits Gedanken über mögliche Quizfragen und Antworten gemacht.
 Wie bereits an früherer Stelle erwähnt, wollen wirn in dem Quiz Fragen zum Them,a Biologie stellen, die App soll Spaß und lernen miteinander verbinden. 
@@ -141,24 +174,35 @@ Außerdem hat sie das Layout mit den richtigen Designblöcken für eine erste Qu
 
 Des Weitern wurde ein neuer Screnn designt mit einem Möhre fressenden Hasen, der auftauchen soll, wennn der Hase im Spiel die Möhre berührt. Auf diesem stehen Glückwünsche und es wurde der button programmiert, bei dessem Betätigung man zu der Fragwe gelangt.
 
+
 ### Dreizehnte Informatikstunde 12.11.2018
 
 In der heutigen Informatikstunde haben wir die Programmierung von letzer Woche optimiert. 
-Außerdem haben wir eine Möhre als Zielpunkt korrekt ins Design integriert, bei Berühren von ihr erfolgt nun eine korrekte Überleitung zu dem "Congratulations-Screen". 
+Außerdem haben wir eine Möhre als Zielpunkt korrekt ins Design integriert, bei Berühren von ihr erfolgt nun eine korrekte Überleitung zu einem weiteren Screen. 
 
-Nun müsste eimal das komplette Durchspielen des Spiels möglich sein, was wir aufgrund des Stundenendes allerdings nicht mehr ausprobieren konnten.
+Nun müsste einmal das komplette Durchspielen des Spiels möglich sein, was wir aufgrund des Stundenendes allerdings nicht mehr ausprobieren konnten.
+
 
 ### Vierzehnte Informatikstunde 13.11.2018
 
 Da Janina heute bei dem Woodbridge-Austausch teilnimmt und sich somit in England befindet, hat Carolin an der Gestaltung der GitHub Seite weitergearbeitet. Außerdem hat sie mit der Projektseite begonnen.
 
-Desweiteren konnte das bisher programmierte Spiel auf dem Smartphone ausprobiert werden.
+Des Weiteren konnte das bisher programmierte Spiel auf dem Smartphone ausprobiert werden. Einige Funktionen haben bereits funktioniert, jedoch wurde schnell klar, dass noch einige wichtige Schritte fehlen.
+
+Während des Austausches hat sich Janina bereits Gedanken über die genaue Strukturierung des Spiels gemacht. 
+Da es mit den verschiedenen Screens während des Arbeitens etwas unübersichtlich wurde, hat sie einen genauen Plan mit den benötigten Screens erstellt.
+
+Da die App ein Screen Limit hat, haben wir uns darüber verständigt, dass wir drei unterschiedlich schwierige Level erstellen wollen.
+
+Zwei davon hatten wir bereits, wir passten den Schwierigkeitsgrad durch Vergrößern der Bälle an und erstellten ein drittes Level.
+
 
 ### Fünfzehnte Informatikstunde 20.11.2018
 
 Gestern ist leider die Informatikstunde ausgefallen und heute hatten wir aufgrund von Lehrerkonferenzen nur eine Stunde Zeit. Trotzdem haben wir heute durch weitere Arbeit von Zuhause aus viel geschafft.
 
-Wir haben uns das Konzept des Spiels jetzt detaillierter ausgedacht: Wir haben uns vier verschiedene Fragen aus dem Fachbereich Biologie ausgedacht, Screens hinzugefügt und unwichtige Elemente gelöscht. Zum Zweiteren gehören z. B. die Screens, die die Levels nachher darstellen sollen, also wo der Hase die Möhre erreichen soll. 
+Wir haben uns das Spiel noch detaillierter ausgedacht und strukturiert: Es gibt ebenfalls drei verschiedene Fragen aus dem Fachbereich Biologie, welche wir uns mit den Antwortmöglichkeiten überlegt haben. Sie werden im Verlauf der verschiedenen Levels schwieriger. 
+Außerdem haben wir Screens hinzugefügt und unwichtige Elemente gelöscht. Zum Zweiteren gehören z. B. die Screens, die die Levels nachher darstellen sollen, also wo der Hase die Möhre erreichen soll. 
 
 Hier einige Eindrücke zum jetzigen Stand:
 
@@ -169,9 +213,10 @@ Hier einige Eindrücke zum jetzigen Stand:
 
 
 
-Heute haben wir festgestellt, dass der Wechsel zu "MIT App Inventor" die richtige Entscheidung war, auch wenn wir kleine Startprobleme mit dem Programm hatten. Denn die Umsetzung und die Grafiken sind sehr viel anschaulicher und wir haben mehr Möglichkeiten. Allerdings ist die Screenanzahl begrenzt, weshalb wir einige nicht so wichtige Komponenten löschen mussten, wie zum Beispiel den Screen oben (s. Bild oben).
+Heute haben wir festgestellt, dass der Wechsel zu "MIT App Inventor" die richtige Entscheidung war, auch wenn wir kleine Startprobleme mit dem Programm hatten. Denn die Umsetzung und die Grafiken sind sehr viel anschaulicher und wir haben mehr Möglichkeiten. Allerdings ist die Screenanzahl wie bereits erwähnt begrenzt, weshalb wir einige nicht so wichtige Komponenten löschen mussten, wie zum Beispiel den Screen oben (s. Bild oben).
 
 
+### Vor der Abgabe
 
 Am Wochenende vor der Projekt-Abgabe haben wir noch einmal viel an dem Projekt gearbeitet. Da wir das Spiel nur mit einem Smartphone ausprobieren können, auf dem Android läuft, hatten wir nur selten die Chance das Programmierte direkt auszuprobieren. 
 Als wir dachten komplett fertig zu sein und alles korrekt programmiert zu haben, mussten wir beim Ausprobieren leider feststellen, dass noch ein paar kleine Fehler in der Programmierung enthalten waren. Diese haben das Speil aber stark beeinträchtigt, weswegen wir zunächst etwas geschockt waren.
@@ -190,7 +235,7 @@ Drückte man den Butten "Nochmal" startete das Speil erneut, doch stürzte kurze
 Unsere Befehle hießen überall "open another Screen". Jedoch hatten wir nicht bedacht, dass dadurch die anderen Screens im Hintergrund noch weiterliefen. Somit berührten die Bälle weiterhin den ImageSprite "Hase" und jedes Mal wenn das geschah, erschien wie programmiert der "VersuchsNochmal" Screen. 
 Durch Einfügen des Befehls "close Screen" bei allen Blogs konnten wir dieses Problem beheben.
 
-Auch wenn das nach vielen Fehlern klingt waren es letztendlich alles nur kleine Änderungen. 
+Auch wenn das nach vielen Fehlern klingt, waren es letztendlich alles nur kleine Änderungen. 
 
 Endlich funktionierte das gesamte Spiel genau so, wie wir es uns vorgestellt hatten.
 Obwohl das gesamte Projekt sehr viel Arbeit und manchmal auch ziemlich frustriend war (wenn bestimmte Dinge einfach nicht so funktioniert haben, wie man es wollte, oder man den Fehler nicht gefunden hat) überkam uns ein gewisser Stolz, als wir unser eigenes Spiel auf dem Smartphone komplett spielen konnten. 
