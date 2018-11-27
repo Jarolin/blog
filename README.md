@@ -174,13 +174,22 @@ Wie bereits an früherer Stelle erwähnt, wollen wirn in dem Quiz Fragen zum The
 Wir denken, dass so eine App vielen Schülern gefallen würde, da wir selber wissen, dass die Motivation zum Lernen oft nicht da ist.
 
 In der heutigen Informatikstunde war Janina leider krank und Carolin somit alleine anwesend und hat die Bälle programmiert.
-Außerdem hat sie das Layout mit den richtigen Designblöcken für eine erste Quizfrage erstellt und dazu anschlöießend die nötigen Buttons programmiert. Somit ist es bereits zu diesem Zeitpunkt möglich eine der vier Antwortmöglichkeiten auszuwählen, man bekommt angezeigt ob es richtig oder falsch ist und bei Richtigkeit wird zu einem neuen Screen übergeleitet, auf dem man das Spiel neu stzarten kann. 
 
+
+![bsp baal](Bilder/baal.png)
+
+Außerdem hat sie das Layout mit den richtigen Designblöcken für eine erste Quizfrage erstellt und dazu anschlöießend die nötigen Buttons programmiert. Somit ist es bereits zu diesem Zeitpunkt möglich eine der vier Antwortmöglichkeiten auszuwählen, man bekommt angezeigt ob es richtig oder falsch ist und bei Richtigkeit wird zu einem neuen Screen übergeleitet, auf dem man das Spiel neu starten kann. 
+
+
+![bsp Fragg](Bilder/Fragg.png)
 
 ### Dreizehnte Informatikstunde 12.11.2018
 
 In der heutigen Informatikstunde haben wir die Programmierung von letzer Woche optimiert. 
 Außerdem haben wir eine Möhre als Zielpunkt korrekt ins Design integriert, bei Berühren von ihr erfolgt nun eine korrekte Überleitung zu einem weiteren Screen. 
+
+
+![bsp mohrli](Bilder/mohrli.png)
 
 Nun müsste einmal das komplette Durchspielen des Spiels möglich sein, was wir aufgrund des Stundenendes allerdings nicht mehr ausprobieren konnten.
 
@@ -241,6 +250,8 @@ Doch es trat ein weiteres Problem auf, bei dem Screen "VersuchsNochmal", auf den
 Drückte man den Butten "Nochmal" startete das Speil erneut, doch stürzte kurze Zeit später wieder zu dem "VersuchsNochmal" Screen ab. Wir haben sehr lange gegrübelt woran deis liegen könnte. Schließlich kamen wir auf eine Idee. 
 Unsere Befehle hießen überall "open another Screen". Jedoch hatten wir nicht bedacht, dass dadurch die anderen Screens im Hintergrund noch weiterliefen. Somit berührten die Bälle weiterhin den ImageSprite "Hase" und jedes Mal wenn das geschah, erschien wie programmiert der "VersuchsNochmal" Screen. 
 Durch Einfügen des Befehls "close Screen" bei allen Blogs konnten wir dieses Problem beheben.
+
+![bsp close](Bilder/close.png)
 
 Auch wenn das nach vielen Fehlern klingt, waren es letztendlich alles nur kleine Änderungen. 
 
