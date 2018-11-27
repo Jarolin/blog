@@ -176,8 +176,6 @@ Wir denken, dass so eine App vielen Schülern gefallen würde, da wir selber wis
 In der heutigen Informatikstunde war Janina leider krank und Carolin somit alleine anwesend und hat die Bälle programmiert.
 Außerdem hat sie das Layout mit den richtigen Designblöcken für eine erste Quizfrage erstellt und dazu anschlöießend die nötigen Buttons programmiert. Somit ist es bereits zu diesem Zeitpunkt möglich eine der vier Antwortmöglichkeiten auszuwählen, man bekommt angezeigt ob es richtig oder falsch ist und bei Richtigkeit wird zu einem neuen Screen übergeleitet, auf dem man das Spiel neu stzarten kann. 
 
-Des Weitern wurde ein neuer Screnn designt mit einem Möhre fressenden Hasen, der auftauchen soll, wennn der Hase im Spiel die Möhre berührt. Auf diesem stehen Glückwünsche und es wurde der button programmiert, bei dessem Betätigung man zu der Fragwe gelangt.
-
 
 ### Dreizehnte Informatikstunde 12.11.2018
 
