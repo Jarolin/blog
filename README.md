@@ -139,6 +139,10 @@ Carolin war begeistert von dem Programm und erzählte Janina direkt davon.
 ### Zehnte Informatikstunde: 29.10.2018
 
 Heute haben wir entschieden, ein neues Programm für unser Spiel auszuprobieren, und zwar "MIT App Inventor". 
+
+
+![bsp MIT](Bilder/MIT.png)
+
 Wir haben uns dazu entschieden, da uns klar geworden ist, dass unser Fortschritt nicht proportional zu unserer Anstrengung wächst. Außerdem bietet das alte Programm nicht alle Funktionen, die wir für unser Spiel brauchen. 
 Und da der Abgabetermin immer näher rückt, haben wir diesen doch etwas riskanten Schritt gewagt.
 
