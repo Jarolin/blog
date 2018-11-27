@@ -193,6 +193,7 @@ Des Weiteren konnte das bisher programmierte Spiel auf dem Smartphone ausprobier
 
 Während des Austausches hat sich Janina bereits Gedanken über die genaue Strukturierung des Spiels gemacht. 
 Da es mit den verschiedenen Screens während des Arbeitens etwas unübersichtlich wurde, hat sie einen genauen Plan mit den benötigten Screens erstellt.
+Außerdem hat Janina an der Projektseite weitergearbeitet.
 
 Da die App ein Screen Limit hat, haben wir uns darüber verständigt, dass wir drei unterschiedlich schwierige Level erstellen wollen.
 
@@ -217,10 +218,14 @@ Hier einige Eindrücke zum jetzigen Stand:
 
 Heute haben wir festgestellt, dass der Wechsel zu "MIT App Inventor" die richtige Entscheidung war, auch wenn wir kleine Startprobleme mit dem Programm hatten. Denn die Umsetzung und die Grafiken sind sehr viel anschaulicher und wir haben mehr Möglichkeiten. Allerdings ist die Screenanzahl wie bereits erwähnt begrenzt, weshalb wir einige nicht so wichtige Komponenten löschen mussten, wie zum Beispiel den Screen oben (s. Bild oben).
 
+Des Weiteren haben wir an der projektseite weitergearbeitet.
+
 
 ### Vor der Abgabe
 
-Am Wochenende vor der Projekt-Abgabe haben wir noch einmal viel an dem Projekt gearbeitet. Da wir das Spiel nur mit einem Smartphone ausprobieren können, auf dem Android läuft, hatten wir nur selten die Chance das Programmierte direkt auszuprobieren. 
+Am Wochenende vor der Projekt-Abgabe haben wir noch einmal viel an dem Projekt gearbeitet. 
+Da wir das Spiel nur mit einem Smartphone ausprobieren können, auf dem Android läuft, hatten wir nur selten die Chance das Programmierte direkt auszuprobieren. 
+
 Als wir dachten komplett fertig zu sein und alles korrekt programmiert zu haben, mussten wir beim Ausprobieren leider feststellen, dass noch ein paar kleine Fehler in der Programmierung enthalten waren. Diese haben das Speil aber stark beeinträchtigt, weswegen wir zunächst etwas geschockt waren.
 
 Zum einen hatte die Möhre eine falsche Größe, der Hase ebenfalls. Mit verschiedenem Ausprobieren und dem Ändern der Pixelgröße der beiden ImageSprites konnten wir das Problem schließlich beheben. 
